@@ -2,7 +2,7 @@
 
 #### Mitt navn er Kolbjørn Bølgen, og jeg studerer Elektronisk Systemdesign og Innovasjon, ved Institutt for Elektroniske Systemer, Norges teknisk-naturvitenskapelige universitet (MTELSYS, IES, NTNU).
 
-## T2
+## Teknisk Verktøykasse
 - <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Matlab_Logo.png height=40 />
 - <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Python_logo.png height=40 />
 - <img src=https://github.com/SkaugJr/SkaugJr/blob/main/linux_logo.png height=40 />
