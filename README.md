@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&random=false&width=800&height=60&lines=Hei+sann!;Mitt+navn+er+Kolbj%C3%B8rn+B%C3%B8lgen.;Hjertelig+velkommen+til+Github-profile+min!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&random=false&width=900&height=60&lines=Hei+sann!;Mitt+navn+er+Kolbj%C3%B8rn+B%C3%B8lgen.;Velkommen+til+Github-profile+min!)](https://git.io/typing-svg)
 
 
 # Hei og velkommen til Github-profilen min!
