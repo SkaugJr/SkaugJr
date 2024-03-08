@@ -6,17 +6,9 @@
 
 #### Jeg startet å studere August 2021, og er forventet å være ferdig med mastergraden innen Juni 2026. Fra og med høsten 2024 skal jeg spesialisere meg innenfor romsystemer, og hittil har jeg opparbeidet meg en særlig interesse og fascinasjon for radioteknikk.
 
-## Teknisk Verktøykasse
+## Teknisk Verktøykasse <img src=https://geps.dev/progress/92 height=30 />
 
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Matlab_Logo.png height=40 /> Matlab <img src=https://geps.dev/progress/92 height=30 />
-
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Python_logo.png height=40 /> Python <img src=https://geps.dev/progress/83 height=30 /> 
-
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/linux_logo.png height=40 /> Linux OS <img src=https://geps.dev/progress/76 height=30 />
-
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/C%2B%2B_logo.png height=40 /> C/C++ <img src=https://geps.dev/progress/58 height=30 />
-
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Overleaf_logo.png height=40 /> LaTeX <img src=https://geps.dev/progress/88 height=30 />
+<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Matlab_Logo.png height=60 /> <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Python_logo.png height=60 /> <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/linux_logo.png height=60 /> <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/C%2B%2B_logo.png height=60 /> <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Overleaf_logo.png height=60 />  <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Overleaf_logo.png height=60 /> 
 
 
 ## Ta kontakt!
