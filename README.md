@@ -1,3 +1,7 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&random=false&width=435&lines=Hei+sann!;Mitt+navn+er+Kolbj%C3%B8rn+B%C3%B8lgen.;Hjertelig+velkommen+til+Github-profile+min!)](https://git.io/typing-svg)
+
+
 # Hei og velkommen til Github-profilen min!
 
 ### Mitt navn er Kolbjørn Bølgen, og jeg studerer Elektronisk Systemdesign og Innovasjon, ved Institutt for Elektroniske Systemer, Norges teknisk-naturvitenskapelige universitet (MTELSYS, IES, NTNU).
@@ -6,15 +10,15 @@
 
 ## Teknisk Verktøykasse
 
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Matlab_Logo.png height=40 /> <img src=https://geps.dev/progress/92 height=30 />
+<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Matlab_Logo.png height=40 /> Matlab <img src=https://geps.dev/progress/92 height=30 />
 
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Python_logo.png height=40 /> <img src=https://geps.dev/progress/83 height=30 /> 
+<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Python_logo.png height=40 /> Python <img src=https://geps.dev/progress/83 height=30 /> 
 
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/linux_logo.png height=40 /> <img src=https://geps.dev/progress/76 height=30 />
+<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/linux_logo.png height=40 /> Linux OS <img src=https://geps.dev/progress/76 height=30 />
 
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/C%2B%2B_logo.png height=40 /> <img src=https://geps.dev/progress/58 height=30 />
+<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/C%2B%2B_logo.png height=40 /> C/C++ <img src=https://geps.dev/progress/58 height=30 />
 
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Overleaf_logo.png height=40 /> <img src=https://geps.dev/progress/88 height=30 />
+<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Overleaf_logo.png height=40 /> LaTeX <img src=https://geps.dev/progress/88 height=30 />
 
 
 ## Ta kontakt!
