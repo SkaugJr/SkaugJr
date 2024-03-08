@@ -3,18 +3,18 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=780F97&random=false&width=900&height=70&lines=Hei+sann!;Mitt+navn+er+Kolbj%C3%B8rn+B%C3%B8lgen.;Velkommen+til+Github-profile+min!" />
 </h1>
 
-<h2 align="center">
+<h1 align="center">
   :satellite:  Elsyser / Student :rocket:
-</h2>
+</h1>
 
 <div align="center">
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: transparent;">
   <tr>
-    <td rowspan="2"><img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Elsys_Logo.png alt="Bilde 1"></td>
-    <td> Elektronisk Systemdesign og Innovasjon, Norges teknisk-naturvitenskapelige universitet (MTELSYS, NTNU) </td>
+    <td rowspan="2"><img src="https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Elsys_Logo.png" alt="Bilde 1" style="width: 600px;"></td>
+    <td>Elektronisk Systemdesign og Innovasjon, Norges teknisk-naturvitenskapelige universitet (MTELSYS, NTNU)</td>
   </tr>
   <tr>
-    <td>August 2021 - Juni 2026 </td>
+    <td>August 2021 - Juni 2026</td>
   </tr>
 </table>
 </div>
