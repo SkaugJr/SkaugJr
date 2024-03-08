@@ -6,9 +6,9 @@
 
 ## Teknisk Verktøykasse
 
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Matlab_Logo.png height=40 /> <img src=https://geps.dev/progress/92 height=25 />
+<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Matlab_Logo.png height=40 /> <img src=https://geps.dev/progress/92 height=30 />
 
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Python_logo.png height=40 /> <img src=https://geps.dev/progress/83 height=25 /> 
+<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Python_logo.png height=40 /> <img src=https://geps.dev/progress/83 height=30 /> 
 
 <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/linux_logo.png height=40 /> ![](https://geps.dev/progress/76)
 
