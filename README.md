@@ -2,11 +2,11 @@
 
 ### Mitt navn er Kolbjørn Bølgen, og jeg studerer Elektronisk Systemdesign og Innovasjon, ved Institutt for Elektroniske Systemer, Norges teknisk-naturvitenskapelige universitet (MTELSYS, IES, NTNU).
 
-#### Jeg startet å studere August 2021, og er forventet å være ferdig med mastergraden innen Juni 2026. Jeg skal spesiallisere meg innenfor romsystemer, med en særlig interesse for radioteknikk.
+#### Jeg startet å studere August 2021, og er forventet å være ferdig med mastergraden innen Juni 2026. Fra og med høsten 2024 skal jeg spesialisere meg innenfor romsystemer, og hittil har jeg opparbeidet meg en særlig interesse og fascinasjon for radioteknikk.
 
 ## Teknisk Verktøykasse
 
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Matlab_Logo.png height=40 /> ![height=40](https://geps.dev/progress/92)
+<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Matlab_Logo.png height=40 /> <img src=https://geps.dev/progress/92 height=40 />
 
 <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Python_logo.png height=40 /> ![](https://geps.dev/progress/83)
 
