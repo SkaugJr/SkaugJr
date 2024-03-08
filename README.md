@@ -4,7 +4,7 @@
 
 ## Teknisk Verktøykasse
 
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Matlab_Logo.png height=40 /> ![height=40](https://geps.dev/progress/94)
+<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Matlab_Logo.png height=40 /> ![height=40](https://geps.dev/progress/92)
 
 <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Python_logo.png height=40 /> ![](https://geps.dev/progress/83)
 
