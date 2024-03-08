@@ -1,6 +1,8 @@
-# Hei sann! Velkommen til github-profilen min!
+# Hei og velkommen til Github-profilen min!
 
 ### Mitt navn er Kolbjørn Bølgen, og jeg studerer Elektronisk Systemdesign og Innovasjon, ved Institutt for Elektroniske Systemer, Norges teknisk-naturvitenskapelige universitet (MTELSYS, IES, NTNU).
+
+#### Jeg startet å studere August 2021, og er forventet å være ferdig med mastergraden innen Juni 2026. Jeg skal spesiallisere meg innenfor romsystemer, med en særlig interesse for radioteknikk.
 
 ## Teknisk Verktøykasse
 
