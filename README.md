@@ -5,9 +5,13 @@
 ## Teknisk Verktøykasse
 
 <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Matlab_Logo.png height=40 /> Test tekst ved siden av
+
 <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Python_logo.png height=40 /> Test tekst ved siden av
+
 <img src=https://github.com/SkaugJr/SkaugJr/blob/main/linux_logo.png height=40 /> Test tekst ved siden av
+
 <img src=https://github.com/SkaugJr/SkaugJr/blob/main/C%2B%2B_logo.png height=40 /> Test tekst ved siden av
+
 <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Overleaf_logo.png height=40 /> Test tekst ved siden av
 
 ## Ta kontakt!
