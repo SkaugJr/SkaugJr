@@ -20,4 +20,4 @@
 
 
 ## Ta kontakt!
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='80'>](https://www.linkedin.com/in/kolbjørn-bølgen-572b942b5//) [<img src='https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/gmail_logo.png' alt='gmail' height='80'>](mailto:skaugjr@gmail.com) [<img src='https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/outlook_logo.png' alt='microsoftoutlook' height='80'>](mailto:kolbjosk@stud.ntnu.no)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='80'>](https://www.linkedin.com/in/kolbjørn-bølgen-572b942b5//) [<img src='' alt='gmail' height='80'>](mailto:skaugjr@gmail.com) [<img src='' alt='microsoftoutlook' height='80'>](mailto:kolbjosk@stud.ntnu.no)
