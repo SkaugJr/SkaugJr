@@ -10,13 +10,13 @@
 
 
 <div align="center">
-<table style="border-collapse: collapse;">
+<table cellpadding=0; cellspacing=0; border: none!important; margin=0;">
   <tr>
-    <td rowspan="2"> <a href=https://www.ntnu.no/studier/mtelsys> <img src="https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Elsys_Logo.png" alt="Bilde 1" style="width: 650px;"> </a></td>
-    <td> :school: Elektronisk Systemdesign og Innovasjon, Norges teknisk-naturvitenskapelige universitet (MTELSYS, NTNU)</td>
+    <td rowspan="2" style="border: none;"> <a href="https://www.ntnu.no/studier/mtelsys"> <img src="https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Elsys_Logo.png" alt="Bilde 1" style="width: 650px;"> </a></td>
+    <td style="border: none;"> :school: Elektronisk Systemdesign og Innovasjon, Norges teknisk-naturvitenskapelige universitet (MTELSYS, NTNU)</td>
   </tr>
   <tr>
-    <td> :calendar: August 2021 - Juni 2026</td>
+    <td style="border: none;"> :calendar: August 2021 - Juni 2026</td>
   </tr>
 </table>
 </div>
