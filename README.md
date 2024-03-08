@@ -8,7 +8,7 @@
 
 <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Python_logo.png height=40 /> ![](https://geps.dev/progress/83)
 
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/linux_logo.png height=40 /> ![](https://geps.dev/progress/70)
+<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/linux_logo.png height=40 /> ![](https://geps.dev/progress/76)
 
 <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/C%2B%2B_logo.png height=40 /> ![](https://geps.dev/progress/55)
 
