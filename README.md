@@ -1,7 +1,7 @@
 ### Hei sann!
 #### Mitt navn er Kolbjørn Bølgen, og jeg studerer Elektronisk Systemdesign og Innovasjon, ved Institutt for Elektroniske Systemer, Norges teknisk-naturvitenskapelige universitet (MTELSYS, IES, NTNU).
 
-![I am GitHub Readme Generator's creator]((https://github.com/SkaugJr/SkaugJr/blob/main/Elsys_Logo.png))
+![Test](https://github.com/SkaugJr/SkaugJr/blob/main/Elsys_Logo.png)
 
 - 🔭 Denne githuben brukes for øyeblikket til laboppgaver, prosjekter og andre oppgaver som fremstår under studiettiden.
 
