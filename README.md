@@ -1,4 +1,4 @@
-# Hei sann!
+# Hei sann! Velkommen til github-profilen min!
 
 ### Mitt navn er Kolbjørn Bølgen, og jeg studerer Elektronisk Systemdesign og Innovasjon, ved Institutt for Elektroniske Systemer, Norges teknisk-naturvitenskapelige universitet (MTELSYS, IES, NTNU).
 
@@ -12,7 +12,7 @@
 
 <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/C%2B%2B_logo.png height=40 /> ![](https://geps.dev/progress/55)
 
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Overleaf_logo.png height=40 /> ![Progress](https://geps.dev/progress/88)
+<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Overleaf_logo.png height=40 /> ![](https://geps.dev/progress/88)
 
 
 ## Ta kontakt!
