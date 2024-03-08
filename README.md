@@ -10,11 +10,11 @@
 
 <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Python_logo.png height=40 /> <img src=https://geps.dev/progress/83 height=30 /> 
 
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/linux_logo.png height=40 /> ![](https://geps.dev/progress/76)
+<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/linux_logo.png height=40 /> <img src=https://geps.dev/progress/76 height=30 />
 
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/C%2B%2B_logo.png height=40 /> ![](https://geps.dev/progress/55)
+<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/C%2B%2B_logo.png height=40 /> <img src=https://geps.dev/progress/58 height=30 />
 
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Overleaf_logo.png height=40 /> ![](https://geps.dev/progress/88)
+<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Overleaf_logo.png height=40 /> <img src=https://geps.dev/progress/88 height=30 />
 
 
 ## Ta kontakt!
