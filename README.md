@@ -11,6 +11,20 @@
 
 <h4 align="center">August 2021 - Juni 2026 </h4>
 
+<div align="center">
+
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td rowspan="2"><img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/elsys_logo.png alt="Bilde 1"></td>
+    <td>Rad 1, Kolonne 2</td>
+  </tr>
+  <tr>
+    <td>Rad 2, Kolonne 2</td>
+  </tr>
+</table>
+
+</div>
+
 <br/><br/>
 <h1 align="center">⚒️ Teknisk Verktøykasse ⚒️</h1>
 <br/>
