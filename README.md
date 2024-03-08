@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center">
-    Elsyser / Student
+  :satellite:  Elsyser / Student :rocket:
 </h2>
 
 <h4 align="center"> Elektronisk Systemdesign og Innovasjon, Norges teknisk-naturvitenskapelige universitet (MTELSYS, NTNU). </h2>
