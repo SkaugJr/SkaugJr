@@ -4,15 +4,15 @@
 
 ## Teknisk Verktøykasse
 
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Matlab_Logo.png height=40 /> ![height=40](https://geps.dev/progress/90)
+<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Matlab_Logo.png height=40 /> ![height=40](https://geps.dev/progress/94)
 
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Python_logo.png height=40 /> ![](https://geps.dev/progress/85)
+<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Python_logo.png height=40 /> ![](https://geps.dev/progress/83)
 
 <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/linux_logo.png height=40 /> ![](https://geps.dev/progress/70)
 
 <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/C%2B%2B_logo.png height=40 /> ![](https://geps.dev/progress/55)
 
-<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Overleaf_logo.png height=40 /> ![](https://geps.dev/progress/85)
+<img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Overleaf_logo.png height=40 /> ![](https://geps.dev/progress/88)
 
 
 ## Ta kontakt!
