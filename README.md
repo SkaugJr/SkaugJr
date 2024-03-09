@@ -4,22 +4,27 @@
 </h1>
 
 <h2 align="center">
-  :satellite:  Elsyser / Student :rocket:
+  :bulb:  Elsyser / Student :books:
 </h2>
 <br/>
 
 <div align="center">
   <table cellpadding="0" cellspacing="0" border="0" margin="0">
     <tr>
-      <td width="30%" rowspan="2"> 
+      <td width="30%">
         <a href="https://www.ntnu.no/studier/mtelsys"> 
           <img src="https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/elsys_pos_staaende_ntnu.png" alt="Elsys_logo"> 
         </a>
       </td>
-      <td width="70%">:school: Elektronisk Systemdesign og Innovasjon (MTELSYS, NTNU)</td>
-    </tr>
-    <tr>
-      <td width="70%"> :calendar: August 2021 - Juni 2026</td>
+      <td width="70%">
+        <b>Universitet: :school: Norges teknisk-naturvitenskapelige universitet (NTNU)</b>
+        <br><br>
+        <b>Studieprogram: :mortar_board: Elektronisk Systemdesign og Innovasjon (MTELSYS)</b>
+        <br><br>
+        <b> Hovedprofil: :satellite: Romsystemer </b>
+        <br><br>
+        <b>Studieperiode: :calendar: August 2021 - Juni 2026 </b>
+      </td> 
     </tr>
   </table>
 </div>
