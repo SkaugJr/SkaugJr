@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  :bulb:  Elsyser / Student :books:
+  :bulb:  Elsyser / Student :rocket:
 </h2>
 <br/>
 
