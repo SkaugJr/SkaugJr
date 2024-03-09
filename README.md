@@ -8,17 +8,17 @@
 </h2>
 <br/>
 
-# Elektronisk Systemdesign og Innovasjon, NTNU
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+<div align="center" style="display: flex; flex-direction: row; align-items: center;">
   <a href="https://www.ntnu.no/studier/mtelsys"> 
     <img src="https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/elsys_pos_staaende_ntnu.png" alt="Elsys_logo" style="width: 20%;"> 
   </a>
-  <div style="text-align: center;">
-    :school: **Studieprogram:** Elektronisk Systemdesign og Innovasjon, Norges teknisk-naturvitenskapelige universitet (MTELSYS, NTNU)<br> 
-    :calendar: **Periode:** August 2021 - Juni 2026
+  <div style="text-align: center; flex-grow: 1;">
+    :school: Elektronisk Systemdesign og Innovasjon, Norges teknisk-naturvitenskapelige universitet (MTELSYS, NTNU)<br> 
+    :calendar: August 2021 - Juni 2026
   </div>
 </div>
+
 
 <br/>
 <h2 align="center">:hammer: Teknisk Verktøykasse :wrench:</h2>
