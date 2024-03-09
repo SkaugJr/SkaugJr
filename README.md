@@ -41,13 +41,13 @@
 <h2 align="center"> :mailbox:  Ta kontakt! :mailbox_with_mail: </h2>
 <div align="center">
     <a href=https://www.linkedin.com/in/kolbjørn-bølgen-572b942b5/>
-      <img src='https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/linkedin_logo2.png' alt='linkedin' width=33%> 
+      <img src='https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/linkedin_logo2.png' alt='linkedin' width=30%> 
     </a>
     <a href=mailto:skaugjr@gmail.com>
-      <img src='https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/gmail_logo.png' alt='gmail' width=33%>
+      <img src='https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/gmail_logo.png' alt='gmail' width=30%>
     </a>
     <a href=mailto:kolbjosk@stud.ntnu.no>
-      <img src='https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/outlook_logo.png' alt='microsoftoutlook' width=33%>
+      <img src='https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/outlook_logo.png' alt='microsoftoutlook' width=30%>
     </a>
 </div>
 <br/><br/>
