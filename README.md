@@ -9,16 +9,22 @@
 <br/>
 
 <div align="center">
-<table cellpadding=0; cellspacing=0; border=0; margin=0;">
-  <tr>
-    <td rowspan="2" style="border: none;"> <a href="https://www.ntnu.no/studier/mtelsys"> <img src="https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/elsys_pos_staaende_ntnu.png" alt="Elsys_logo" style="width: 20%;"> </a></td>
-    <td style="border: none;"> :school: Elektronisk Systemdesign og Innovasjon, Norges teknisk-naturvitenskapelige universitet (MTELSYS, NTNU)</td>
-  </tr>
-  <tr>
-    <td style="border: none;"> :calendar: August 2021 - Juni 2026</td>
-  </tr>
-</table>
+  <table cellpadding="0" cellspacing="0" border="0" margin="0">
+    <tr>
+      <td width="30%" rowspan="2"> 
+        <a href="https://www.ntnu.no/studier/mtelsys"> 
+          <img src="https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/elsys_pos_staaende_ntnu.png" alt="Elsys_logo"> 
+        </a>
+      </td>
+      <td width="70%" >:school: Elektronisk Systemdesign og Innovasjon, Norges teknisk-naturvitenskapelige universitet (MTELSYS, NTNU)</td>
+    </tr>
+    <tr>
+      <td width="70%"> :calendar: August 2021 - Juni 2026</td>
+    </tr>
+  </table>
 </div>
+
+
 
 
 <br/>
