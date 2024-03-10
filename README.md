@@ -33,7 +33,7 @@
 </div>
 
 <br/><br/>
-<h2 align="center">:hammer: Teknisk Verktøykasse :wrench:</h2>
+<h2 align="center">:hammer: Kodespråk og Teknisk Verktøykasse :wrench:</h2>
 <br/>
 <div align="center">
 <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Matlab_Logo.png width=12% /> <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Python_logo.png width=12% /> <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/linux_logo.png width=12% /> <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/C%2B%2B_logo.png width=12% /> <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Overleaf_logo.png width=12% />  <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/Github_logo2.png width=12% /> <img src=https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/vscode_logo.png width=12% />
