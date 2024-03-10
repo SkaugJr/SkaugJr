@@ -27,6 +27,8 @@
         <b>:satellite: Hovedprofil: <br> Romsystemer </b>
         <br><br>
         <b>:calendar: Studieperiode: <br> August 2021 - Juni 2026 </b>
+        <br><br>
+        <img src=https://github.com/SkaugJr/SkaugJr/blob/main/gif/rocket.gif width=50%>
       </td> 
     </tr>
   </table>
