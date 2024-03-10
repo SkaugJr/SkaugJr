@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/github-header-image.png" />
+    <img src="https://github.com/SkaugJr/SkaugJr/blob/main/gif/github_banner.gif" />
 </h1>
 
 <h1 align="center">
