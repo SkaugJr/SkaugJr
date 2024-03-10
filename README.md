@@ -6,9 +6,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=60&pause=1000&color=0598ce&random=false&width=1200&height=110&lines=Hei+sann!;Mitt+navn+er+Kolbj%C3%B8rn+B%C3%B8lgen.;Velkommen+til+Github-profile+min!" />
 </h1>
 
-<h2 align="center">
-  :satellite:  Elsyser / Student :rocket:
-</h2>
+<h1 align="center">
+  :satellite: Elsyser :rocket:
+</h1>
 <br/>
 
 <div align="center">
