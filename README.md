@@ -1,4 +1,8 @@
 <h1 align="center">
+    <img src="https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/github-header-image.png" />
+</h1>
+
+<h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=60&pause=1000&color=780F97&random=false&width=1200&height=110&lines=Hei+sann!;Mitt+navn+er+Kolbj%C3%B8rn+B%C3%B8lgen.;Velkommen+til+Github-profile+min!" />
 </h1>
 
