@@ -16,7 +16,7 @@
     <tr>
       <td width="35%">
         <a href="https://www.ntnu.no/studier/mtelsys"> 
-          <img src="https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/elsys_pos_staaende_ntnu.png" alt="Elsys_logo"> 
+          <img src="https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/elsys_pos_staaende_ntnu.png" alt="Elsys_logo">
         </a>
       </td>
       <td width="65%">
@@ -27,8 +27,6 @@
         <b>:satellite: Hovedprofil: <br> Romsystemer </b>
         <br><br>
         <b>:calendar: Studieperiode: <br> August 2021 - Juni 2026 </b>
-        <br><br>
-        <img src=https://github.com/SkaugJr/SkaugJr/blob/main/gif/rocket.gif width=45%> <br> <img src=https://github.com/SkaugJr/SkaugJr/blob/main/gif/circuit.gif width=45%>
       </td> 
     </tr>
   </table>
