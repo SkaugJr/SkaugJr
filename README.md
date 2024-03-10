@@ -20,13 +20,13 @@
         </a>
       </td>
       <td width="65%">
-        <b>Universitet: :school: Norges teknisk-naturvitenskapelige universitet (NTNU)</b>
+        <b>:school: Universitet: Norges teknisk-naturvitenskapelige universitet (NTNU)</b>
         <br><br>
-        <b>Studieprogram: :mortar_board: Elektronisk Systemdesign og Innovasjon (MTELSYS)</b>
+        <b>:mortar_board: Studieprogram: Elektronisk Systemdesign og Innovasjon (MTELSYS)</b>
         <br><br>
-        <b> Hovedprofil: :satellite: Romsystemer </b>
+        <b>:satellite: Hovedprofil: Romsystemer </b>
         <br><br>
-        <b>Studieperiode: :calendar: August 2021 - Juni 2026 </b>
+        <b>:calendar: Studieperiode: August 2021 - Juni 2026 </b>
       </td> 
     </tr>
   </table>
