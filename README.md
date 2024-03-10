@@ -32,18 +32,7 @@
   </table>
 </div>
 
-<img width="15%" align="left" alt="Github" src="https://github.com/SkaugJr/SkaugJr/blob/main/Bilder/elsys_pos_staaende_ntnu.png" />
-<div align="center">
-<b>:school: Universitet: <br> Norges teknisk-naturvitenskapelige universitet (NTNU)</b>
-<br><br>
-<b>:mortar_board: Studieprogram: <br> Elektronisk Systemdesign og Innovasjon (MTELSYS)</b>
-<br><br>
-<b>:satellite: Hovedprofil: <br> Romsystemer </b>
-<br><br>
-<b>:calendar: Studieperiode: <br> August 2021 - Juni 2026 </b>
-</div>
-
-<br/><br/><br/><br/><br/>
+<br/><br/>
 <h2 align="center">:hammer: Teknisk Verktøykasse :wrench:</h2>
 <br/>
 <div align="center">
