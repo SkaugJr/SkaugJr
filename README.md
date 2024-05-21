@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
-  <table cellpadding="0" cellspacing="0" border="0" margin="0">
+  <table cellpadding="0" cellspacing="0" border="0">
     <tr>
       <td width="35%">
         <a href="https://www.ntnu.no/studier/mtelsys"> 
